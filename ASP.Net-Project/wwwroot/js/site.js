@@ -1,4 +1,16 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿document.addEventListener('mousemove', onMouseMove);
+window.addEventListener('resize', onResize);
 
-// Write your JavaScript code.
+function onMouseMove(event) {
+    const x = event.clientX;
+    const y = event.clientY;
+    cursor.updateTargetPosition(x, y);
+}
+function onResize() {
+    const { x, y, width, height } = menuBtn.getBoundingClientRect();
+    gsap.set(cta, {
+        left: x - width,
+        top: y + height
+    });
+}
+
