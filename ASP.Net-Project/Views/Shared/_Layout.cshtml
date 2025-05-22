@@ -4,14 +4,24 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - ASP.Net_ProjectC</title>
-    <link   />
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/ASP.Net_Project.styles.css" asp-append-version="true" />
-	<script type="text/javascript" src="~/lib/jquery/dist/jquery.min.js"></script>
+    <link rel="icon" href="~/img/Imagen_de_WhatsApp_2025-05-20_a_las_08.53.04_91b42b24-removebg-preview.png" type="img/png"/>
 </head>
 <body>
     <header>
+        <div>
+            <p class="nav-item">
+                <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            </p>
+            <p class="nav-item">
+                <a  asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            </p>
+            <p class="nav-item">
+                <a  asp-area="" asp-controller="User" asp-action="Login">User Game</a>
+            </p>
+        </div>
+    </header>
+    <!--<header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
                 <a class="font-face-format">
@@ -37,6 +47,8 @@
             </div>
         </nav>
     </header>
+
+    -->
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()

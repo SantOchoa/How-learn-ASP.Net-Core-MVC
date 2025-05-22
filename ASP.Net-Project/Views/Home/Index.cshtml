@@ -1,21 +1,51 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-<
+
 
 
 <!DOCTYPE
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 <head>
     <title>Welcome</title>
     <link rel="stylesheet" href="" />
 </head>
 <body class="body">
-    <div class="text-center">
-        <img src="@Url.Content("~/img/my-notion-face-transparent.png")" alt="Mi Avatar" width="500" />
-        <h1 class="display-4">Welcome</h1>
-        <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <div class="welcome">
+        <h1 class="welcometitle">Welcome you</h1>
+        <img alt="myavatar" src="@Url.Content("~/img/Imagen_de_WhatsApp_2025-05-20_a_las_08.53.04_91b42b24-removebg-preview.png")" />
+        <div class="Concepts">
+            <h2> Los Primeros pasos en ASP.Net </h2>
+            <h2>Que es ASP.Net Core?</h2>
+            <p></p>
+            <h2>Que se significa un Modelo Vista Controlador (MVC)?</h2>
+            <p></p>
+            <h2>Ejercicios de Modelo Vista Controlador</h2>
+            <div class="usergame">
+                <h3>User Game</h3>
+                <img class ="user" src="@Url.Content("")" />
+               <p>En esta es el primer paso para aprender a desarrollar habilidades de ASP.Net Core MVC (Model-View-Contoller). 
+                  En esta simple actividad se va a ralizar la insercion de usarios en una List de tipo usuarios y en el siguiente
+                  boton se imprimara el listado de usarios ingresados</p>
+                <button class="buttontousergame">
+                    <a asp-area="" asp-controller="User" asp-action="Login">User Game</a>
+                </button>
+            </div>
+            <div class="chickengame">
+                <h3>Chickent Game</h3>
+                <img class="chickent" src="@Url.Content("")" />
+                <p>
+                    En esta actividad se busca explorar de una mejor manera como se desarrolla un proyecto de ASP.Net Core MVC (Model-View-Contoller)
+                    con una estructura dinamica con los grafos. De manera didactica y divertiva se explica el funcionamiento de un grafo en desarrollado
+                    con MVC. Emulando la paradoja de el huevo y la gallina (Suponiendo que primero fue la gallina, NO DISCUTA JULIAN), se demuestra como 
+                    la gallina tiene huevos que se convertiran en gallinas y tendran sus hijos, y de esta manera poder y identificar la gallina madre y los 
+                    hermanos e hijos.
+                </p>
+                <button class="buttontousergame">
+                    <a asp-area="" asp-controller="User" asp-action="Login">User Game</a>
+                </button>
+            </div>
+        </div>
     </div>
-    
 </body>
 </html>

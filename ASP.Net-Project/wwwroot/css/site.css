@@ -26,3 +26,24 @@ font-face-format {
     
     
 }
+
+.contenedor{
+    display: flex;
+    justify-content: flex-end;
+}
+.welcome {
+    font-family: 'Inter', sans-serif;
+}
+.welcometitle {
+    font-family: 'Inter', sans-serif;
+    widows: inherit;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.myavatar {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
