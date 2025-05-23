@@ -21,39 +21,34 @@
 
     <div>
         <h2>Lista de Usuarios</h2>
-
-    </div>
-
-
-    <!--<table>
-        <thead>
+        <table>
             <tr>
-                <th>ID</th>
-                <th>Nombre</th>
-                <th>Contraseña</th>
+				<th>ID</th>
+				<th>Nombre</th>
+				<th>Contraseña</th>
             </tr>
-        </thead>
-        <tbody>
             @if (Model != null && Model.Count > 0)
             {
                 foreach (var user in Model)
                 {
-                    <tr>
-                        <td>@user.id</td>
-                        <td>@user.name</td>
-                        <td>@user.password</td>
-                    </tr>
+                <tr>
+                    <td>@user.id</td>
+                    <td>@user.name</td>
+                    <td>@user.password</td>
+                </tr>
                 }
             }
             else
             {
-                <tr>
-                    <td colspan="3">No hay usuarios registrados.</td>
-                </tr>
+            <tr>
+                <td colspan="3">No hay usuarios registrados.</td>
+            </tr>
             }
-        </tbody>
-    </table>
-    -->
+        </table>
+    </div>
+
+
+    
 
 </body>
 </html>

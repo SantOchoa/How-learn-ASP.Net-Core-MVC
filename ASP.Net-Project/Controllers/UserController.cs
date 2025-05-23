@@ -26,16 +26,7 @@ namespace ASP.Net_Project.Controllers
 
             return RedirectToAction("Login");
         }
-        [HttpPost]
-        public IActionResult showUsers()
-        {
-            StringBuilder sb = new StringBuilder();
-            foreach (User user in users)
-            {
-                sb.Append(user.toString());
-            }
-            return Content(sb.ToString());
-        }
+        
     }
 }
 
