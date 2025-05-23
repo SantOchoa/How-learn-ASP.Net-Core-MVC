@@ -11,5 +11,9 @@
             this.name = name;
             this.password = password;
         }
+        public string toString()
+        {
+            return "id: " + id + " name: " + name + " password: " + password;
+        }
     }
 }
