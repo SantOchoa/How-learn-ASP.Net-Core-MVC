@@ -12,6 +12,12 @@
             chicken_son = null;
             chicken_brother = null;
         }
+        public Chicken(string name)
+        {
+            Name = name;
+            chicken_son = null;
+            chicken_brother = null;
+        }
 
     }
 }

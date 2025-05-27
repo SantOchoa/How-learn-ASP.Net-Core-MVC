@@ -1,0 +1,25 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Home Page";
+}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Welcome</title>
+	<link rel="stylesheet" href="" />
+</head>
+<body>
+	<div class="Welcome">
+
+	</div>
+	<div>
+		<form asp-controller="ChickenTree" asp-action="addChicken" method="post">
+			<input type="text" name="nameChicken" placeholder="Nombre de la gallina" />
+			
+			<button type="submit">Guardar Gallina</button>
+		</form>
+	</div>
+</body>
+</html>
