@@ -7,8 +7,4 @@
     <RootNamespace>ASP.Net_Project</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="wwwroot\img\" />
-  </ItemGroup>
-
 </Project>

@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Chicken_Development_Crazy.gif",
+      "PackagePath": "staticwebassets\\img\\Chicken_Development_Crazy.gif"
+    },
+    {
+      "Id": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Face-ID-User.gif",
+      "PackagePath": "staticwebassets\\img\\Face-ID-User.gif"
+    },
+    {
       "Id": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Imagen_de_WhatsApp_2025-05-20_a_las_08.53.04_91b42b24-removebg-preview.png",
       "PackagePath": "staticwebassets\\img\\Imagen_de_WhatsApp_2025-05-20_a_las_08.53.04_91b42b24-removebg-preview.png"
     },

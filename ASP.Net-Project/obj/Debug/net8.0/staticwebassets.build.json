@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0DNNziTy3vGuxspKVICRJmaYSihpPc2vPYxgaNbfIyk=",
+  "Hash": "Dk7Ao4Lt6NU14M4weSlg47eM+f5/m1HHY1UEV3OKVwo=",
   "Source": "ASP.Net-Project",
   "BasePath": "_content/ASP.Net-Project",
   "Mode": "Default",
@@ -78,6 +78,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Chicken_Development_Crazy.gif",
+      "SourceId": "ASP.Net-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\",
+      "BasePath": "_content/ASP.Net-Project",
+      "RelativePath": "img/Chicken_Development_Crazy#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wx2yf7cu80",
+      "Integrity": "ZG6bwhfgykh3Bddf1SxP+xaLFStXn4Y1R+/hCSRTofY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Chicken_Development_Crazy.gif"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Face-ID-User.gif",
+      "SourceId": "ASP.Net-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\",
+      "BasePath": "_content/ASP.Net-Project",
+      "RelativePath": "img/Face-ID-User#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j4thqsu4th",
+      "Integrity": "s9fOUNHK7bVApcgcVvEjpJppAsJw0/Dtmq+DoJ+VmHc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Face-ID-User.gif"
     },
     {
       "Identity": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Imagen_de_WhatsApp_2025-05-20_a_las_08.53.04_91b42b24-removebg-preview.png",
@@ -366,6 +408,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-DqZwMVxPIxIhsKbfUzd0oJ3ROHDwduVQ9BgngG0czhw="
+        }
+      ]
+    },
+    {
+      "Route": "img/Chicken_Development_Crazy.gif",
+      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Chicken_Development_Crazy.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZG6bwhfgykh3Bddf1SxP+xaLFStXn4Y1R+/hCSRTofY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 04:23:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZG6bwhfgykh3Bddf1SxP+xaLFStXn4Y1R+/hCSRTofY="
+        }
+      ]
+    },
+    {
+      "Route": "img/Chicken_Development_Crazy.wx2yf7cu80.gif",
+      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Chicken_Development_Crazy.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZG6bwhfgykh3Bddf1SxP+xaLFStXn4Y1R+/hCSRTofY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 04:23:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wx2yf7cu80"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Chicken_Development_Crazy.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZG6bwhfgykh3Bddf1SxP+xaLFStXn4Y1R+/hCSRTofY="
+        }
+      ]
+    },
+    {
+      "Route": "img/Face-ID-User.gif",
+      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Face-ID-User.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "341318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s9fOUNHK7bVApcgcVvEjpJppAsJw0/Dtmq+DoJ+VmHc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 03:04:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s9fOUNHK7bVApcgcVvEjpJppAsJw0/Dtmq+DoJ+VmHc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Face-ID-User.j4thqsu4th.gif",
+      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Face-ID-User.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "341318"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s9fOUNHK7bVApcgcVvEjpJppAsJw0/Dtmq+DoJ+VmHc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 03:04:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j4thqsu4th"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Face-ID-User.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s9fOUNHK7bVApcgcVvEjpJppAsJw0/Dtmq+DoJ+VmHc="
         }
       ]
     },
