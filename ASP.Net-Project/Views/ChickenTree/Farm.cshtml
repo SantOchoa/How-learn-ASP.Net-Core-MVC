@@ -4,6 +4,7 @@
 @{
     ViewData["Title"] = "Home Page";
 }
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,10 +17,11 @@
 	</div>
 	<div>
 		<form asp-controller="ChickenTree" asp-action="addChicken" method="post">
-			<input type="text" name="nameChicken" placeholder="Nombre de la gallina" />
-			
+			<input type="text" name="nameChickenMom" placeholder="Nombre de la madre" />
+			<input type="text" name="nameChickenSon" placeholder="Nombre de la gallina" />
 			<button type="submit">Guardar Gallina</button>
 		</form>
 	</div>
+	
 </body>
 </html>

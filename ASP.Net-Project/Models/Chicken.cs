@@ -18,6 +18,5 @@
             chicken_son = null;
             chicken_brother = null;
         }
-
     }
 }

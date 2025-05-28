@@ -5,21 +5,43 @@ namespace ASP.Net_Project.Controllers
 {
     public class ChickenTreeController : Controller
     {
-        ChickenTree chickenTree = new ChickenTree();
+        private static ChickenTree chickenTree = new ChickenTree();
+        
         public IActionResult Farm()
         {
-            return View();
+            if (chickenTree.raiz == null)
+            {
+                chickenTree.raiz = new Chicken();
+            }
+            return View(chickenTree);
         }
         [HttpPost]
-        public IActionResult AddChicken(string nameChicken)
+        public IActionResult AddChicken(string nameChickenMom, string nameChickenSon)
         {
-            if (string.IsNullOrEmpty(nameChicken))
+            if (string.IsNullOrEmpty(nameChickenSon))
             {
                 return BadRequest("El nombre del pollo no puede estar vacío.");
             }
-            Chicken newChicken = new Chicken(nameChicken);
-            chickenTree.addChicken(nameChicken, newChicken);
-            return RedirectToAction("Index");
+            else
+            {
+                if (chickenTree.raiz.Name == ""|| chickenTree.raiz == null)
+                {
+                    chickenTree.addChicken(nameChickenSon, null);
+                    return RedirectToAction("Farm");
+                }
+                if (chickenTree.raiz !=null && string.IsNullOrEmpty(nameChickenMom))
+                { 
+                    return BadRequest("Ya existe una raiz");
+                }
+                Chicken momChicken = chickenTree.postOrdenSearch(chickenTree.raiz, nameChickenMom);
+                
+                if (momChicken == null)
+                {
+                    return BadRequest("La madre no existe en el árbol.");
+                }
+                chickenTree.addChicken(nameChickenSon, momChicken);
+                return RedirectToAction("Farm");
+            }
         }
     }
 }

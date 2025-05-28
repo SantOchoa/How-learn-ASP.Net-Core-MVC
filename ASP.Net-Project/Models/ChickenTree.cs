@@ -9,9 +9,9 @@
         {
             raiz = new Chicken();
         }
-        public Chicken addChicken(string nameChickent, Chicken chicken)
+        public Chicken addChicken(string nameChickent, Chicken? chicken)
         {
-             if(chicken == null)
+            if(chicken == null)
             {
                 raiz = new Chicken(nameChickent);
                 raiz.chicken_son = null;
@@ -36,5 +36,44 @@
                 return brotherChicken;
             }
         }
+
+        public Chicken postOrdenSearch(Chicken chicken, string name)
+        {
+            if (chicken == null)
+            {
+                return null;
+            }
+
+            // 1. Buscar en el hijo
+            Chicken encontrado = postOrdenSearch(chicken.chicken_son, name);
+            if (encontrado != null)
+            {
+                return encontrado;
+            }
+
+            // 2. Buscar en el hermano
+            encontrado = postOrdenSearch(chicken.chicken_brother, name);
+            if (encontrado != null)
+            {
+                return encontrado;
+            }
+
+            // 3. Revisar el nodo actual
+            if (chicken.Name.Equals(name))
+            {
+                return chicken;
+            }
+
+            return null;
+        }
+        
+        
+
+
+
+
+
+
+
     }
 }
