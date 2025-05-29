@@ -71,7 +71,6 @@
         {
             if (chicken == null)
                 return "";
-
             string indent = new string(' ', level * 4);
             string result = indent + "- " + chicken.Name + "\n";
             result += GetTreeFormatted(chicken.chicken_son, level + 1);

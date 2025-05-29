@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Dk7Ao4Lt6NU14M4weSlg47eM+f5/m1HHY1UEV3OKVwo=",
+  "Hash": "f5gq5PscWhJyOrni/zbJ8CasqWtlM4tZ8t2+7YQYj/Y=",
   "Source": "ASP.Net-Project",
   "BasePath": "_content/ASP.Net-Project",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "y38sal95yb",
-      "Integrity": "DqZwMVxPIxIhsKbfUzd0oJ3ROHDwduVQ9BgngG0czhw=",
+      "Fingerprint": "mjdknyf62n",
+      "Integrity": "kjBrQ2qk5XlLI1bHuBrIbWhjX+vW6+GFds6T7fSfWEc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -122,6 +122,27 @@
       "OriginalItemSpec": "wwwroot\\img\\Face-ID-User.gif"
     },
     {
+      "Identity": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\fondo_login.jpg",
+      "SourceId": "ASP.Net-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\",
+      "BasePath": "_content/ASP.Net-Project",
+      "RelativePath": "img/fondo_login#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iva8jmtl5l",
+      "Integrity": "DgSQdMxAojBsXe7KvTcEXr1pXv+ZgtCn6gi09V22hOw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\fondo_login.jpg"
+    },
+    {
       "Identity": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Imagen_de_WhatsApp_2025-05-20_a_las_08.53.04_91b42b24-removebg-preview.png",
       "SourceId": "ASP.Net-Project",
       "SourceType": "Discovered",
@@ -141,6 +162,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Imagen_de_WhatsApp_2025-05-20_a_las_08.53.04_91b42b24-removebg-preview.png"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Logo_.Net.png",
+      "SourceId": "ASP.Net-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\",
+      "BasePath": "_content/ASP.Net-Project",
+      "RelativePath": "img/Logo_.Net#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tssgnkbgb1",
+      "Integrity": "MxMpjU+C3uqcX/jgHfcEuzXUPzC8LgiP6AHD9SD/h1s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Logo_.Net.png"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Logo_ASP.png",
+      "SourceId": "ASP.Net-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\",
+      "BasePath": "_content/ASP.Net-Project",
+      "RelativePath": "img/Logo_ASP#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jqjv47218m",
+      "Integrity": "q9XzWKCRuhtVp78HoEMki9YrKZotKnkJASlJ1ZNN6Zk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Logo_ASP.png"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\pollito_nace.gif",
+      "SourceId": "ASP.Net-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\",
+      "BasePath": "_content/ASP.Net-Project",
+      "RelativePath": "img/pollito_nace#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3ybn1sqjf2",
+      "Integrity": "xXL+f4XcKCz/Tlc2CKZvblKE/TG2SSidFfUh0PvKt7g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\pollito_nace.gif"
     },
     {
       "Identity": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\js\\site.js",
@@ -340,7 +424,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "812"
+          "Value": "5525"
         },
         {
           "Name": "Content-Type",
@@ -348,11 +432,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DqZwMVxPIxIhsKbfUzd0oJ3ROHDwduVQ9BgngG0czhw=\""
+          "Value": "\"kjBrQ2qk5XlLI1bHuBrIbWhjX+vW6+GFds6T7fSfWEc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 17:05:05 GMT"
+          "Value": "Thu, 29 May 2025 06:57:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -362,12 +446,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DqZwMVxPIxIhsKbfUzd0oJ3ROHDwduVQ9BgngG0czhw="
+          "Value": "sha256-kjBrQ2qk5XlLI1bHuBrIbWhjX+vW6+GFds6T7fSfWEc="
         }
       ]
     },
     {
-      "Route": "css/site.y38sal95yb.css",
+      "Route": "css/site.mjdknyf62n.css",
       "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -377,7 +461,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "812"
+          "Value": "5525"
         },
         {
           "Name": "Content-Type",
@@ -385,11 +469,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DqZwMVxPIxIhsKbfUzd0oJ3ROHDwduVQ9BgngG0czhw=\""
+          "Value": "\"kjBrQ2qk5XlLI1bHuBrIbWhjX+vW6+GFds6T7fSfWEc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 22 May 2025 17:05:05 GMT"
+          "Value": "Thu, 29 May 2025 06:57:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -399,7 +483,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "y38sal95yb"
+          "Value": "mjdknyf62n"
         },
         {
           "Name": "label",
@@ -407,7 +491,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DqZwMVxPIxIhsKbfUzd0oJ3ROHDwduVQ9BgngG0czhw="
+          "Value": "sha256-kjBrQ2qk5XlLI1bHuBrIbWhjX+vW6+GFds6T7fSfWEc="
         }
       ]
     },
@@ -576,6 +660,88 @@
       ]
     },
     {
+      "Route": "img/fondo_login.iva8jmtl5l.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\fondo_login.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "835590"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DgSQdMxAojBsXe7KvTcEXr1pXv+ZgtCn6gi09V22hOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 06:31:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iva8jmtl5l"
+        },
+        {
+          "Name": "label",
+          "Value": "img/fondo_login.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DgSQdMxAojBsXe7KvTcEXr1pXv+ZgtCn6gi09V22hOw="
+        }
+      ]
+    },
+    {
+      "Route": "img/fondo_login.jpg",
+      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\fondo_login.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "835590"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DgSQdMxAojBsXe7KvTcEXr1pXv+ZgtCn6gi09V22hOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 06:31:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DgSQdMxAojBsXe7KvTcEXr1pXv+ZgtCn6gi09V22hOw="
+        }
+      ]
+    },
+    {
       "Route": "img/Imagen_de_WhatsApp_2025-05-20_a_las_08.53.04_91b42b24-removebg-preview.193ztu8ohw.png",
       "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Imagen_de_WhatsApp_2025-05-20_a_las_08.53.04_91b42b24-removebg-preview.png",
       "Selectors": [],
@@ -654,6 +820,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-yw/xoA//6wuSItdpfyr9E5waVKmO/c/TvnrQk33VJQg="
+        }
+      ]
+    },
+    {
+      "Route": "img/Logo_.Net.png",
+      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Logo_.Net.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MxMpjU+C3uqcX/jgHfcEuzXUPzC8LgiP6AHD9SD/h1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 01:24:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MxMpjU+C3uqcX/jgHfcEuzXUPzC8LgiP6AHD9SD/h1s="
+        }
+      ]
+    },
+    {
+      "Route": "img/Logo_.Net.tssgnkbgb1.png",
+      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Logo_.Net.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67781"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MxMpjU+C3uqcX/jgHfcEuzXUPzC8LgiP6AHD9SD/h1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 01:24:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tssgnkbgb1"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Logo_.Net.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MxMpjU+C3uqcX/jgHfcEuzXUPzC8LgiP6AHD9SD/h1s="
+        }
+      ]
+    },
+    {
+      "Route": "img/Logo_ASP.jqjv47218m.png",
+      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Logo_ASP.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q9XzWKCRuhtVp78HoEMki9YrKZotKnkJASlJ1ZNN6Zk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 01:39:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jqjv47218m"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Logo_ASP.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q9XzWKCRuhtVp78HoEMki9YrKZotKnkJASlJ1ZNN6Zk="
+        }
+      ]
+    },
+    {
+      "Route": "img/Logo_ASP.png",
+      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Logo_ASP.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q9XzWKCRuhtVp78HoEMki9YrKZotKnkJASlJ1ZNN6Zk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 01:39:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q9XzWKCRuhtVp78HoEMki9YrKZotKnkJASlJ1ZNN6Zk="
+        }
+      ]
+    },
+    {
+      "Route": "img/pollito_nace.3ybn1sqjf2.gif",
+      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\pollito_nace.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xXL+f4XcKCz/Tlc2CKZvblKE/TG2SSidFfUh0PvKt7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 04:36:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ybn1sqjf2"
+        },
+        {
+          "Name": "label",
+          "Value": "img/pollito_nace.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xXL+f4XcKCz/Tlc2CKZvblKE/TG2SSidFfUh0PvKt7g="
+        }
+      ]
+    },
+    {
+      "Route": "img/pollito_nace.gif",
+      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\pollito_nace.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xXL+f4XcKCz/Tlc2CKZvblKE/TG2SSidFfUh0PvKt7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 04:36:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xXL+f4XcKCz/Tlc2CKZvblKE/TG2SSidFfUh0PvKt7g="
         }
       ]
     },

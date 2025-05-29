@@ -21,6 +21,22 @@
       "PackagePath": "staticwebassets\\img\\Imagen_de_WhatsApp_2025-05-20_a_las_08.53.04_91b42b24-removebg-preview.png"
     },
     {
+      "Id": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Logo_.Net.png",
+      "PackagePath": "staticwebassets\\img\\Logo_.Net.png"
+    },
+    {
+      "Id": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\Logo_ASP.png",
+      "PackagePath": "staticwebassets\\img\\Logo_ASP.png"
+    },
+    {
+      "Id": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\fondo_login.jpg",
+      "PackagePath": "staticwebassets\\img\\fondo_login.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\pollito_nace.gif",
+      "PackagePath": "staticwebassets\\img\\pollito_nace.gif"
+    },
+    {
       "Id": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

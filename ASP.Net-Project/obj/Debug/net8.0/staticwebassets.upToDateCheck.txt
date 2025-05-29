@@ -1,5 +1,9 @@
 wwwroot\css\site.css
 wwwroot\img\Chicken_Development_Crazy.gif
 wwwroot\img\Face-ID-User.gif
+wwwroot\img\fondo_login.jpg
 wwwroot\img\Imagen_de_WhatsApp_2025-05-20_a_las_08.53.04_91b42b24-removebg-preview.png
+wwwroot\img\Logo_.Net.png
+wwwroot\img\Logo_ASP.png
+wwwroot\img\pollito_nace.gif
 wwwroot\js\site.js

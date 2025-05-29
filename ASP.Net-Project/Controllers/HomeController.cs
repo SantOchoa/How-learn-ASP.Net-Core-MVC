@@ -17,6 +17,10 @@ namespace ASP.Net_Project.Controllers
         {
             return View();
         }
+        public IActionResult Contact()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {

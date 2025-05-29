@@ -11,29 +11,50 @@
     <link rel="stylesheet" href="" />
 </head>
 <body class="body">
-    <div class="welcome">
-        <h1 class="welcometitle">Welcome you</h1>
-        <img alt="myavatar" src="@Url.Content("~/img/Imagen_de_WhatsApp_2025-05-20_a_las_08.53.04_91b42b24-removebg-preview.png")" />
-        <div class="Concepts">
-            <h2> Los Primeros pasos en ASP.Net </h2>
-            <h2>Que es ASP.Net Core?</h2>
-            <p></p>
-            <h2>Que se significa un Modelo Vista Controlador (MVC)?</h2>
-            <p></p>
-            <h2>Ejercicios de Modelo Vista Controlador</h2>
-            <div class="usergame">
-                <h3>User Game</h3>
+    <div class="indexview">
+        <div class="welcome">
+            <h1 class="welcometitle">Bienvenidos</h1>
+            <div class="imageneswelcome">
+			    <img class="logonet" alt="logo" src="@Url.Content("~/img/Logo_.Net.png")" />
+                <img class="myavatar" alt="myavatar" src="@Url.Content("~/img/Imagen_de_WhatsApp_2025-05-20_a_las_08.53.04_91b42b24-removebg-preview.png")" />
+			    <img class="logoasp" alt="logo" src="@Url.Content("~/img/Logo_ASP.png")" />
+            </div>
+        </div>
+        <div class="concepts">
+            <article class="whatisasp">
+                <h2>Que es ASP.Net Core?</h2>
+                <p>
+                    ASP.NET Core es un framework de desarrollo web creado por Microsoft que permite construir aplicaciones
+                    web, APIs y servicios rápidos y modernos. Es multiplataforma, lo que significa que funciona en Windows, Linux y macOS, y está diseñado para ser ligero, rápido y escalable. 
+                    Ideal para crear desde sitios web simples hasta aplicaciones empresariales complejas. Si quiere mas informacion
+                    sbre esta herramienta consulte: <a href="https://dotnet.microsoft.com/es-es/apps/aspnet">https://dotnet.microsoft.com/es-es/apps/aspnet</a>
+                </p>
+            </article>
+			<article class="whatismvc">
+				<h2>Que es MVC?</h2>
+				<p>
+					MVC (Modelo-Vista-Controlador) es un patrón de diseño arquitectónico que separa una aplicación en tres componentes principales:
+					Modelo (gestiona los datos y la lógica de negocio), Vista (presenta la interfaz de usuario) y Controlador (interactúa entre el modelo y la vista).
+					Esta separación facilita el desarrollo, mantenimiento y escalabilidad de aplicaciones web. Si quiere mas informacion
+					sbre esta herramienta consulte: <a href="https://docs.microsoft.com/es-es/aspnet/core/mvc/overview?view=aspnetcore-8.0">https://docs.microsoft.com/es-es/aspnet/core/mvc/overview?view=aspnetcore-8.0</a>
+				</p>
+            </article>
+        </div>
+        <h2>Ejercicios de Modelo Vista Controlador</h2>
+		<div class="games">
+            <div class="game">
                 <img class="user" src="@Url.Content("~/img/Face-ID-User.gif")" />
-               <p>En esta es el primer paso para aprender a desarrollar habilidades de ASP.Net Core MVC (Model-View-Contoller). 
-                  En esta simple actividad se va a ralizar la insercion de usarios en una List de tipo usuarios y en el siguiente
-                  boton se imprimara el listado de usarios ingresados</p>
+                <h3>User Game</h3>
+                <p>En esta es el primer paso para aprender a desarrollar habilidades de ASP.Net Core MVC (Model-View-Contoller). 
+                    En esta simple actividad se va a ralizar la insercion de usarios en una List de tipo usuarios y en el siguiente
+                    boton se imprimara el listado de usarios ingresados</p>
                 <button class="buttonusergame">
                     <a asp-area="" asp-controller="User" asp-action="Login">User Game</a>
                 </button>
             </div>
-            <div class="chickengame">
-                <h3>Chickent Game</h3>
+            <div class="game">
                 <img class="chickent" src="@Url.Content("~/img/Chicken_Development_Crazy.gif")" />
+                <h3>Chickent Game</h3>
                 <p>
                     En esta actividad se busca explorar de una mejor manera como se desarrolla un proyecto de ASP.Net Core MVC (Model-View-Contoller)
                     con una estructura dinamica con los arboles generales. De manera didactica y divertiva se explica el funcionamiento de un grafo en desarrollado
@@ -47,5 +68,6 @@
             </div>
         </div>
     </div>
+
 </body>
 </html>

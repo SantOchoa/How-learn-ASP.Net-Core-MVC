@@ -10,41 +10,60 @@
     <link rel="stylesheet" href="~/css/site.css" />
 </head>
 <body>
-
-
-    <form asp-controller="User" asp-action="saveUser" method="post">
-        <input type="text" name="nameUser" placeholder="Nombre de usuario" />
-        <input type="number" name="idUser" placeholder="ID de usuario" />
-        <input type="password" name="passwordUser" placeholder="Contraseña" />
-        <button type="submit" class="saveUser">Guardar</button>
-    </form>
-
-    <div>
-        <h2>Lista de Usuarios</h2>
-        <table>
-            <tr>
-				<th>ID</th>
-				<th>Nombre</th>
-				<th>Contraseña</th>
-            </tr>
-            @if (Model != null && Model.Count > 0)
-            {
-                foreach (var user in Model)
+    <div class="loginpage">
+        <h1 class="titlelogin">Bienvenido a User Game</h1>
+	    <p class="subtitlelogin">
+		    En este juego se quiere mostrar de manera simple el funcionamiento de un proyecto de Modelo Vista Controlador (MVC) en ASP.NET Core,
+		    en el cual se pueden registrar usuarios como si se realizará un login o registro en un sitio web, y de esta manera,
+            emulando una base de datos con un List de usuarios, se muestra el registro de usuarios ingresados. Ademas encontrara una seccion
+            que dara una breve explicacion de lo que se realizo en el proyecto.
+        </p>
+        <p class="motivate">Modificalo y agrega mas funciones</p>
+        <div class="login">
+            <h2>Login</h2>
+            <form asp-controller="User" asp-action="saveUser" method="post">
+                <div class="inputBx">
+                    <input type="text" name="nameUser" placeholder="Nombre de usuario" />
+                </div>
+                <div class="inputBx">
+                    <input type="number" name="idUser" placeholder="ID de usuario" />
+                </div>
+                <div class="inputBx">
+                    <input type="password" name="passwordUser" placeholder="Contraseña" />
+                </div>
+                <div class="inputBx">
+                    <button type="submit" class="saveUser">Ingresar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+        <div class="impresion">
+            <h2>Lista de Usuarios</h2>
+            <table>
+                <tr>
+				    <th>ID</th>
+				    <th>Nombre</th>
+				    <th>Contraseña</th>
+                </tr>
+                @if (Model != null && Model.Count > 0)
+                {
+                    foreach (var user in Model)
+                    {
+                    <tr>
+                        <td>@user.id</td>
+                        <td>@user.name</td>
+                        <td>@user.password</td>
+                    </tr>
+                    }
+                }
+                else
                 {
                 <tr>
-                    <td>@user.id</td>
-                    <td>@user.name</td>
-                    <td>@user.password</td>
+                    <td colspan="3">No hay usuarios registrados.</td>
                 </tr>
                 }
-            }
-            else
-            {
-            <tr>
-                <td colspan="3">No hay usuarios registrados.</td>
-            </tr>
-            }
-        </table>
+            </table>
+        </div>
     </div>
 
 
