@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f5gq5PscWhJyOrni/zbJ8CasqWtlM4tZ8t2+7YQYj/Y=",
+  "Hash": "sE82HbD8cJ7IlT5sUJzeiRgwcYJKtaHV2V7C5i+d8/U=",
   "Source": "ASP.Net-Project",
   "BasePath": "_content/ASP.Net-Project",
   "Mode": "Default",
@@ -59,6 +59,27 @@
       "OriginalItemSpec": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ASP.Net-Project.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\css\\ChickenStely.css",
+      "SourceId": "ASP.Net-Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\",
+      "BasePath": "_content/ASP.Net-Project",
+      "RelativePath": "css/ChickenStely#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "072ivps0cq",
+      "Integrity": "ZOGk3rMidymuNuwSKqWMCfZ/M3ukJq0j897G2mykL4s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\ChickenStely.css"
+    },
+    {
       "Identity": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\css\\site.css",
       "SourceId": "ASP.Net-Project",
       "SourceType": "Discovered",
@@ -73,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mjdknyf62n",
-      "Integrity": "kjBrQ2qk5XlLI1bHuBrIbWhjX+vW6+GFds6T7fSfWEc=",
+      "Fingerprint": "clmpju09c9",
+      "Integrity": "oKk4YaRAj5k4LiuX046mUVRPtbxOsTHTKrOR/X3iBFQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -206,12 +227,12 @@
       "OriginalItemSpec": "wwwroot\\img\\Logo_ASP.png"
     },
     {
-      "Identity": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\pollito_nace.gif",
+      "Identity": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\pollito-nace.gif",
       "SourceId": "ASP.Net-Project",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\",
       "BasePath": "_content/ASP.Net-Project",
-      "RelativePath": "img/pollito_nace#[.{fingerprint}]?.gif",
+      "RelativePath": "img/pollito-nace#[.{fingerprint}]?.gif",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -220,11 +241,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "3ybn1sqjf2",
-      "Integrity": "xXL+f4XcKCz/Tlc2CKZvblKE/TG2SSidFfUh0PvKt7g=",
+      "Fingerprint": "a21tlwy2en",
+      "Integrity": "ov8ppwmiKLMetb1xRZOKc7I0S3kOXvTif0BpzTSNFU8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\pollito_nace.gif"
+      "OriginalItemSpec": "wwwroot\\img\\pollito-nace.gif"
     },
     {
       "Identity": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\js\\site.js",
@@ -414,6 +435,133 @@
       ]
     },
     {
+      "Route": "css/ChickenStely.072ivps0cq.css",
+      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\css\\ChickenStely.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1846"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZOGk3rMidymuNuwSKqWMCfZ/M3ukJq0j897G2mykL4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 15:38:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "072ivps0cq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/ChickenStely.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZOGk3rMidymuNuwSKqWMCfZ/M3ukJq0j897G2mykL4s="
+        }
+      ]
+    },
+    {
+      "Route": "css/ChickenStely.css",
+      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\css\\ChickenStely.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1846"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZOGk3rMidymuNuwSKqWMCfZ/M3ukJq0j897G2mykL4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 15:38:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZOGk3rMidymuNuwSKqWMCfZ/M3ukJq0j897G2mykL4s="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.clmpju09c9.css",
+      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7454"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oKk4YaRAj5k4LiuX046mUVRPtbxOsTHTKrOR/X3iBFQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 29 May 2025 15:45:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "clmpju09c9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oKk4YaRAj5k4LiuX046mUVRPtbxOsTHTKrOR/X3iBFQ="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -424,7 +572,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5525"
+          "Value": "7454"
         },
         {
           "Name": "Content-Type",
@@ -432,11 +580,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kjBrQ2qk5XlLI1bHuBrIbWhjX+vW6+GFds6T7fSfWEc=\""
+          "Value": "\"oKk4YaRAj5k4LiuX046mUVRPtbxOsTHTKrOR/X3iBFQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 May 2025 06:57:06 GMT"
+          "Value": "Thu, 29 May 2025 15:45:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -446,52 +594,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kjBrQ2qk5XlLI1bHuBrIbWhjX+vW6+GFds6T7fSfWEc="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.mjdknyf62n.css",
-      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5525"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kjBrQ2qk5XlLI1bHuBrIbWhjX+vW6+GFds6T7fSfWEc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 29 May 2025 06:57:06 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mjdknyf62n"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-kjBrQ2qk5XlLI1bHuBrIbWhjX+vW6+GFds6T7fSfWEc="
+          "Value": "sha256-oKk4YaRAj5k4LiuX046mUVRPtbxOsTHTKrOR/X3iBFQ="
         }
       ]
     },
@@ -988,8 +1091,8 @@
       ]
     },
     {
-      "Route": "img/pollito_nace.3ybn1sqjf2.gif",
-      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\pollito_nace.gif",
+      "Route": "img/pollito-nace.a21tlwy2en.gif",
+      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\pollito-nace.gif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -998,7 +1101,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "140858"
+          "Value": "189277"
         },
         {
           "Name": "Content-Type",
@@ -1006,11 +1109,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xXL+f4XcKCz/Tlc2CKZvblKE/TG2SSidFfUh0PvKt7g=\""
+          "Value": "\"ov8ppwmiKLMetb1xRZOKc7I0S3kOXvTif0BpzTSNFU8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 May 2025 04:36:17 GMT"
+          "Value": "Thu, 29 May 2025 15:39:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1020,21 +1123,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "3ybn1sqjf2"
+          "Value": "a21tlwy2en"
         },
         {
           "Name": "label",
-          "Value": "img/pollito_nace.gif"
+          "Value": "img/pollito-nace.gif"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-xXL+f4XcKCz/Tlc2CKZvblKE/TG2SSidFfUh0PvKt7g="
+          "Value": "sha256-ov8ppwmiKLMetb1xRZOKc7I0S3kOXvTif0BpzTSNFU8="
         }
       ]
     },
     {
-      "Route": "img/pollito_nace.gif",
-      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\pollito_nace.gif",
+      "Route": "img/pollito-nace.gif",
+      "AssetFile": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\pollito-nace.gif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1043,7 +1146,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "140858"
+          "Value": "189277"
         },
         {
           "Name": "Content-Type",
@@ -1051,11 +1154,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xXL+f4XcKCz/Tlc2CKZvblKE/TG2SSidFfUh0PvKt7g=\""
+          "Value": "\"ov8ppwmiKLMetb1xRZOKc7I0S3kOXvTif0BpzTSNFU8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 29 May 2025 04:36:17 GMT"
+          "Value": "Thu, 29 May 2025 15:39:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1065,7 +1168,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xXL+f4XcKCz/Tlc2CKZvblKE/TG2SSidFfUh0PvKt7g="
+          "Value": "sha256-ov8ppwmiKLMetb1xRZOKc7I0S3kOXvTif0BpzTSNFU8="
         }
       ]
     },

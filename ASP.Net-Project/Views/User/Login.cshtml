@@ -20,26 +20,28 @@
         </p>
         <p class="motivate">Modificalo y agrega mas funciones</p>
         <div class="login">
-            <h2>Login</h2>
-            <form asp-controller="User" asp-action="saveUser" method="post">
-                <div class="inputBx">
-                    <input type="text" name="nameUser" placeholder="Nombre de usuario" />
-                </div>
-                <div class="inputBx">
-                    <input type="number" name="idUser" placeholder="ID de usuario" />
-                </div>
-                <div class="inputBx">
-                    <input type="password" name="passwordUser" placeholder="Contraseña" />
-                </div>
-                <div class="inputBx">
-                    <button type="submit" class="saveUser">Ingresar</button>
-                </div>
-            </form>
+            <div class= "logintxt">
+                <h2>Login</h2>
+                <form asp-controller="User" asp-action="saveUser" method="post">
+                    <div class="inputBx">
+                        <input type="text" name="nameUser" placeholder="Nombre de usuario" />
+                    </div>
+                    <div class="inputBx">
+                        <input type="number" name="idUser" placeholder="ID de usuario" />
+                    </div>
+                    <div class="inputBx">
+                        <input type="password" name="passwordUser" placeholder="Contraseña" />
+                    </div>
+                    <div class="inputBx">
+                        <button type="submit" class="saveUser">Ingresar</button>
+                    </div>
+                </form>
+            </div>
         </div>
     </div>
         <div class="impresion">
             <h2>Lista de Usuarios</h2>
-            <table>
+            <table class="listusers">
                 <tr>
 				    <th>ID</th>
 				    <th>Nombre</th>

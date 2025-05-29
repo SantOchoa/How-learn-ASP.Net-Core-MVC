@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{22D6FA74-753B-4198-99E0-A35B5611FE9E}|ASP.Net-Project.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\how-learn-asp.net-core-mvc\\asp.net-project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{22D6FA74-753B-4198-99E0-A35B5611FE9E}|ASP.Net-Project.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22D6FA74-753B-4198-99E0-A35B5611FE9E}|ASP.Net-Project.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\how-learn-asp.net-core-mvc\\asp.net-project\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{22D6FA74-753B-4198-99E0-A35B5611FE9E}|ASP.Net-Project.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22D6FA74-753B-4198-99E0-A35B5611FE9E}|ASP.Net-Project.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\how-learn-asp.net-core-mvc\\asp.net-project\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{22D6FA74-753B-4198-99E0-A35B5611FE9E}|ASP.Net-Project.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{22D6FA74-753B-4198-99E0-A35B5611FE9E}|ASP.Net-Project.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\how-learn-asp.net-core-mvc\\asp.net-project\\views\\chickentree\\farm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22D6FA74-753B-4198-99E0-A35B5611FE9E}|ASP.Net-Project.csproj|solutionrelative:views\\chickentree\\farm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D6FA74-753B-4198-99E0-A35B5611FE9E}|ASP.Net-Project.csproj|c:\\users\\usuario\\desktop\\estructura de datos\\how-learn-asp.net-core-mvc\\asp.net-project\\wwwroot\\css\\chickenstely.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{22D6FA74-753B-4198-99E0-A35B5611FE9E}|ASP.Net-Project.csproj|solutionrelative:wwwroot\\css\\chickenstely.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +26,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEIAAAAAYmZmZmYrwE4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-29T06:26:57.726Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T14:30:57.316Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChickenStely.css",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\css\\ChickenStely.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\ChickenStely.css",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\css\\ChickenStely.css",
+              "RelativeToolTip": "wwwroot\\css\\ChickenStely.css",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-29T15:18:59.585Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAOsAAAAAgmZmZmYgwPoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-29T06:26:57.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\Views\\User\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\Views\\User\\Login.cshtml",
-              "RelativeToolTip": "Views\\User\\Login.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAwCUAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Farm.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\Views\\ChickenTree\\Farm.cshtml",
+              "RelativeDocumentMoniker": "Views\\ChickenTree\\Farm.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\Views\\ChickenTree\\Farm.cshtml",
+              "RelativeToolTip": "Views\\ChickenTree\\Farm.cshtml",
+              "ViewState": "AgIAABAAAABgm5mZmZkpwBgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T06:26:49.556Z",
+              "WhenOpened": "2025-05-29T14:26:03.08Z",
               "EditorCaption": ""
             }
           ]

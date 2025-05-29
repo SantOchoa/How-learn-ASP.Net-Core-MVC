@@ -8,18 +8,31 @@
 <html>
 <head>
 	<title>Welcome</title>
-	<link rel="stylesheet" href="~/css/site.css" />
+	<link rel="stylesheet" href="~/css/ChickenStely.css"/>
 </head>
 <body>
-	<div class="Welcome">
+	<div class="chickenpage">
+		<h1 class="titlechicken">Bienvenido a Chicken Game</h1>
+		<p class="subtitchicken">
+			En este juego se quiere mostrar de manera simple el funcionamiento de un proyecto de Modelo Vista Controlador (MVC) en ASP.NET Core,
+			en el cual se pueden registrar usuarios como si se realizará un login o registro en un sitio web, y de esta manera,
+			emulando una base de datos con un List de usuarios, se muestra el registro de usuarios ingresados. Ademas encontrara una seccion
+			que dara una breve explicacion de lo que se realizo en el proyecto.
+		</p>
+		<p class="motivate">Modificalo y agrega mas funciones</p>
+		<div class="login">
+			<div class="logintxt">
+				<img src="@Url.Content("~/img/pollito-nace.gif")" alt="Gallina" class="chickenimg" />
+				<div>
+					<form asp-controller="ChickenTree" asp-action="addChicken" method="post">
+						<input type="text" name="nameChickenMom" placeholder="Nombre de la madre" />
+						<input type="text" name="nameChickenSon" placeholder="Nombre de la gallina" />
+						<button type="submit">Guardar Gallina</button>
+					</form>
+				</div>
+			</div>
+		</div>
 
-	</div>
-	<div>
-		<form asp-controller="ChickenTree" asp-action="addChicken" method="post">
-			<input type="text" name="nameChickenMom" placeholder="Nombre de la madre" />
-			<input type="text" name="nameChickenSon" placeholder="Nombre de la gallina" />
-			<button type="submit">Guardar Gallina</button>
-		</form>
 	</div>
 	<div>
 		<h2>Árbol de Pollos</h2>

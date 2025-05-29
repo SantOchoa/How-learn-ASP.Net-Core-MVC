@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\ASP.Net-Project.b9d8b6ibxx.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\css\\ChickenStely.css",
+      "PackagePath": "staticwebassets\\css\\ChickenStely.css"
+    },
+    {
       "Id": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -33,8 +37,8 @@
       "PackagePath": "staticwebassets\\img\\fondo_login.jpg"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\pollito_nace.gif",
-      "PackagePath": "staticwebassets\\img\\pollito_nace.gif"
+      "Id": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\img\\pollito-nace.gif",
+      "PackagePath": "staticwebassets\\img\\pollito-nace.gif"
     },
     {
       "Id": "C:\\Users\\USUARIO\\Desktop\\Estructura de Datos\\How-learn-ASP.Net-Core-MVC\\ASP.Net-Project\\wwwroot\\js\\site.js",
