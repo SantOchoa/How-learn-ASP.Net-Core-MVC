@@ -1,54 +1,43 @@
-# How-learn-ASP.Net-Core-MVC
 
-*“Una travesía clara hacia el dominio del Model-View-Controller en ASP.NET Core.”*
+# How-learn-ASP.Net-Core-MVC  
 
----
-
-##  Descripción
-
-Este repositorio es tu brújula cruda y eficaz para aprender ASP.NET Core MVC. Aquí no hay adornos: solo un proyecto creado con intención, estructura limpia y código listo para explorar y expandir.
+*“Un viaje para aprender ASP.NET Core MVC desde cero, explorando paso a paso la arquitectura Model-View-Controller.”*  
 
 ---
 
-##  Contenido del Proyecto
+## 🚀 Descripción  
 
-- **Languages**: C# (~47.1 %), HTML (~38.6 %), CSS (~12.1 %), JavaScript (~2.2 %) :contentReference[oaicite:0]{index=0}  
-- **Último commit**: “I crate the proyect”, realizado hace apenas minutos — puro instinto creativo activo :contentReference[oaicite:1]{index=1}.  
-- **Estado actual**: Sin descripción aún, sin badges. Es un lienzo en blanco por llenar :contentReference[oaicite:2]{index=2}.
+Este proyecto es un **espacio de práctica y aprendizaje** enfocado en ASP.NET Core MVC.  
+El objetivo es **aprender haciendo**: entender cómo funciona la estructura MVC, cómo interactúan los modelos, vistas y controladores, y cómo levantar un proyecto real en .NET Core.  
 
----
-
-##  ¿Por qué este README?
-
-1. **Claridad brutal**: no andamos con rodeos, vamos directo a lo esencial.
-2. **Estilo profesional**: lenguaje técnico, estructura modular.
-3. **Visión literaria**: un sutil matiz poético sin exagerar, lo justo para inspirar.
+Ideal para estudiantes de **Ingeniería de Sistemas** o autodidactas que desean dar sus primeros pasos en el desarrollo web con C# y .NET Core.  
 
 ---
 
-##  Tabla de Contenidos Sugerida
+## 🛠 Tecnologías Usadas  
 
-1. [Descripción](#-descripción)  
-2. [Tecnologías Usadas](#-tecnologías-usadas)  
-3. [Instalación](#-instalación)  
-4. [Uso](#-uso)  
-5. [Estructura del Proyecto](#-estructura-del-proyecto)  
-6. [Contribución](#-contribución)  
-7. [Licencia](#-licencia)  
-8. [Contacto](#-contacto)
+- **ASP.NET Core MVC** → Framework principal.  
+- **C#** → Lenguaje base del backend.  
+- **Razor Pages** → Para renderizado dinámico de vistas.  
+- **HTML5 & CSS3** → Maquetación y estilos.  
+- **JavaScript** → Interactividad básica.  
+- **Entity Framework Core** (opcional, si lo agregas después).  
 
 ---
 
-##  Secciones Detalladas
+## ⚡ Instalación  
 
-### Tecnologías Usadas
-- ASP.NET Core MVC  
-- C#, Razor, HTML, CSS, JavaScript  
-
-### Instalación
+Para clonar y correr este proyecto en tu máquina local:  
 
 ```bash
+# Clonar el repositorio
 git clone https://github.com/SantOchoa/How-learn-ASP.Net-Core-MVC.git
+
+# Entrar a la carpeta del proyecto
 cd How-learn-ASP.Net-Core-MVC
+
+# Restaurar dependencias
 dotnet restore
+
+# Ejecutar la aplicación
 dotnet run
